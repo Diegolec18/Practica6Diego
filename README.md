@@ -2,8 +2,4 @@ Hola mi nombre es Diego Lecanda Alvarez tengo 20 años y actualmente estoy estud
 
 Este blog lo hice para que la gente conozca un poco de mis gustos en videojuegos.
 
-![Yo]({{ '/static/img/yo.JPG' | url }})
 
-**Una foto de mi novia y yo**
-
-[Home]({{ '/' | url }})
