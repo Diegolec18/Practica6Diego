@@ -1,12 +1,16 @@
 ---
 layout: base.njk
-title: Sección Acerca
+title: Un poco de mi
 ---
 
 # {{ title }}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+Hola mi nombre es Diego Lecanda Alvarez tengo 20 años y actualmente estoy estudiando en la Universidad Amerike la carrera de Desarrollo de Software Interactivo y Videojuegos.
 
-![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
+Este blog lo hice para que la gente conozca un poco de mis gustos en videojuegos.
+
+![Yo]({{ '/static/img/yo.JPG' | url }})
+
+**Una foto de mi novia y yo**
 
 [Home]({{ '/' | url }})
