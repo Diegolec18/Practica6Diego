@@ -2,4 +2,5 @@ Hola mi nombre es Diego Lecanda Alvarez tengo 20 años y actualmente estoy estud
 
 Este blog lo hice para que la gente conozca un poco de mis gustos en videojuegos.
 
+link de mi pagina https://diegolec18.github.io/Practica6Diego/
 
